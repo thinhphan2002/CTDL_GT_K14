@@ -16,7 +16,7 @@ public class AppleDriver {
         System.out.println("=======Menu=======");
         System.out.println("Chọn 1 Chức Năng");
         switch(chungNang){
-            case 1: nhap(); break;
+            case 1: nhapThemTao();break;
             case 2: tim(); break;
             case 3: inDanhSach(); break;
             case 4: System.out.println("Đóng!!!"); break;
