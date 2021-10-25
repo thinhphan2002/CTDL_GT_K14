@@ -9,9 +9,9 @@ public class AppleDriver {
         
     do{
         System.out.println("=======Menu=======");
-        System.out.println("1. Nhập thêm táo vô kho");
-        System.out.println("2. Tìm Táo theo màu và in ra màn hình");
-        System.out.println("3. In danh sách táo")
+        System.out.println("1. Thêm táo vô kho");
+        System.out.println("2. Tìm theo màu in ra màn hình");
+        System.out.println("3. In ra danh sách ")
         System.out.println("4. Đóng");
         System.out.println("=======Menu=======");
         System.out.println("Chọn 1 Chức Năng");
